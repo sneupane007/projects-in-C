@@ -1,0 +1,7 @@
+# Compiled object files
+*.o
+
+# Executables
+
+tut1  # Replace 'myprogram' with the actual name of your executable if applicable
+.vscode
